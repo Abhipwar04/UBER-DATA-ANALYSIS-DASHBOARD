@@ -3,46 +3,48 @@ TITLE:
 🚖 Uber Data Analysis Dashboard
 
 🎯 Purpose:
-📍 Analyze Uber ride data by location – Spot patterns in trip demand.
 
-📊 Identify trends in fares, trips, and passenger behavior – Understand customer usage.
+    📍 Analyze Uber ride data by location – Spot patterns in trip demand.
 
-⚡ Provide quick insights for better business planning – Support data-driven decisions.
+    📊 Identify trends in fares, trips, and passenger behavior – Understand customer usage.
 
-🛠 Tech Stack
-💻 Power BI – For creating the interactive dashboard.
+    ⚡ Provide quick insights for better business planning – Support data-driven decisions.
 
-📂 Data Source
-📑 Kaggle – Uber Dataset
+🛠 Tech Stack:
 
-✨ Features
-🚗 KPI Metrics – Total trips, average fare, distance, and time duration.
+    💻 Power BI – For creating the interactive dashboard.
 
-🎚 Interactive Filters – Location and date selection.
+📂 Data Source:
+    📑 Kaggle – Uber Dataset
 
-💰 Fare Analysis – Compare total fare by location.
+✨ Features:
+     🚗 KPI Metrics – Total trips, average fare, distance, and time duration.
 
-👥 Passenger Insights – Trip count & passenger distribution by city.
+     🎚 Interactive Filters – Location and date selection.
 
-💳 Payment Breakdown – Analyze customer payment preferences.
+     💰 Fare Analysis – Compare total fare by location.
 
-📊 Key Visuals & Purpose
-🏷 KPI Cards – Average fare, total trips, total distance, and time duration.
+     👥 Passenger Insights – Trip count & passenger distribution by city.
 
-📉 Bar Charts – Compare total trips & fares across locations.
+      💳 Payment Breakdown – Analyze customer payment preferences.
 
-📈 Line & Combo Chart – Relationship between total distance & average fare.
+📊 Key Visuals & Purpose :
+      🏷 KPI Cards – Average fare, total trips, total distance, and time duration.
 
-🍩 Donut Charts – Passenger count share & payment method usage.
+      📉 Bar Charts – Compare total trips & fares across locations.
 
-💡 Business Impact & Insights
-📍 Bhubaneswar has the highest trips & fares → Strong demand area.
+      📈 Line & Combo Chart – Relationship between total distance & average fare.
 
-💳 Payment methods evenly split → Customers prefer multiple payment options.
+      🍩 Donut Charts – Passenger count share & payment method usage.
 
-💰 Average fare varies by city → Opportunity for location-based pricing.
+💡 Business Impact & Insights :
+      📍 Bhubaneswar has the highest trips & fares → Strong demand area.
 
-🚀 Helps Uber optimize driver allocation, pricing strategies, and targeted marketing.
+      💳 Payment methods evenly split → Customers prefer multiple payment options.
+
+      💰 Average fare varies by city → Opportunity for location-based pricing.
+
+      🚀 Helps Uber optimize driver allocation, pricing strategies, and targeted marketing.
 
 SCREENSHOT:
 https://github.com/Abhipwar04/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/uber%20data%20analysis%20screenshot.png
