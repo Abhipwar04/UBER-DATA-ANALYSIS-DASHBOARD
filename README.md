@@ -1,6 +1,7 @@
 # UBER-DATA-ANALYSIS-DASHBOARD
 TITLE:
-🚖 Uber Data Analysis Dashboard
+
+    🚖 Uber Data Analysis Dashboard
 
 🎯 Purpose:
 
@@ -15,9 +16,11 @@ TITLE:
     💻 Power BI – For creating the interactive dashboard.
 
 📂 Data Source:
+
     📑 Kaggle – Uber Dataset
 
 ✨ Features:
+
      🚗 KPI Metrics – Total trips, average fare, distance, and time duration.
 
      🎚 Interactive Filters – Location and date selection.
@@ -29,6 +32,7 @@ TITLE:
       💳 Payment Breakdown – Analyze customer payment preferences.
 
 📊 Key Visuals & Purpose :
+
       🏷 KPI Cards – Average fare, total trips, total distance, and time duration.
 
       📉 Bar Charts – Compare total trips & fares across locations.
@@ -38,6 +42,7 @@ TITLE:
       🍩 Donut Charts – Passenger count share & payment method usage.
 
 💡 Business Impact & Insights :
+
       📍 Bhubaneswar has the highest trips & fares → Strong demand area.
 
       💳 Payment methods evenly split → Customers prefer multiple payment options.
@@ -47,4 +52,5 @@ TITLE:
       🚀 Helps Uber optimize driver allocation, pricing strategies, and targeted marketing.
 
 SCREENSHOT:
+
 https://github.com/Abhipwar04/UBER-DATA-ANALYSIS-DASHBOARD/blob/main/uber%20data%20analysis%20screenshot.png
